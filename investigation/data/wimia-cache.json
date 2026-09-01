@@ -1,0 +1,1381 @@
+{
+  "104.253.218.207": {
+    "asn": "393886",
+    "city": "Miami",
+    "isp": "Subnet Digital LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Florida"
+  },
+  "104.253.218.219": {
+    "asn": "393886",
+    "city": "Miami",
+    "isp": "Subnet Digital LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Florida"
+  },
+  "104.253.218.240": {
+    "asn": "393886",
+    "city": "Miami",
+    "isp": "Subnet Digital LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Florida"
+  },
+  "138.99.38.156": {
+    "asn": "263740",
+    "city": "New York City",
+    "isp": "IT Communications",
+    "services": "Data Center/Transit",
+    "state_region": "New York"
+  },
+  "138.99.38.185": {
+    "asn": "263740",
+    "city": "New York City",
+    "isp": "IT Communications",
+    "services": "Data Center/Transit",
+    "state_region": "New York"
+  },
+  "142.111.250.18": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "Ace Data Centers II L.L.C.",
+    "services": "Public Proxy Server",
+    "state_region": "Bucuresti"
+  },
+  "142.111.250.191": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "Ace Data Centers II L.L.C.",
+    "services": "Data Center/Transit",
+    "state_region": "Bucuresti"
+  },
+  "142.147.137.199": {
+    "asn": "62874",
+    "city": "Toronto",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Ontario"
+  },
+  "142.147.140.27": {
+    "asn": "62874",
+    "city": "Toronto",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Ontario"
+  },
+  "142.147.140.37": {
+    "asn": "62874",
+    "city": "Toronto",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Ontario"
+  },
+  "142.147.142.111": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "142.147.143.157": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "142.252.178.219": {
+    "asn": "9009",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "142.252.186.41": {
+    "asn": "9009",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "142.252.203.140": {
+    "asn": "9009",
+    "city": "Zagreb",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "Grad Zagreb"
+  },
+  "142.252.222.203": {
+    "asn": "9009",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "152.163.119.45": {
+    "asn": "9009",
+    "city": "Miami",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Florida"
+  },
+  "152.163.124.98": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.125.48": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.126.253": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.126.5": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.128.199": {
+    "asn": "7203",
+    "city": "San Francisco",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "152.163.128.28": {
+    "asn": "7203",
+    "city": "San Francisco",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "152.163.128.36": {
+    "asn": "7203",
+    "city": "San Francisco",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "152.163.152.118": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.154.28": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.155.166": {
+    "asn": "19148",
+    "city": "Phoenix",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Arizona"
+  },
+  "152.163.157.185": {
+    "asn": "7203",
+    "city": "San Francisco",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "154.17.108.21": {
+    "asn": "9009",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.17.113.151": {
+    "asn": "9009",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.17.113.253": {
+    "asn": "9009",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.17.114.185": {
+    "asn": "9009",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.17.96.98": {
+    "asn": "9009",
+    "city": "Charlotte",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "North Carolina"
+  },
+  "154.17.97.105": {
+    "asn": "9009",
+    "city": "Charlotte",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "North Carolina"
+  },
+  "154.17.97.208": {
+    "asn": "9009",
+    "city": "Charlotte",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "North Carolina"
+  },
+  "154.17.98.52": {
+    "asn": "9009",
+    "city": "Charlotte",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "North Carolina"
+  },
+  "154.28.104.143": {
+    "asn": "9009",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.28.32.152": {
+    "asn": "46261",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.28.36.216": {
+    "asn": "46261",
+    "city": "Ashburn",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "Virginia"
+  },
+  "154.30.71.160": {
+    "asn": "9009",
+    "city": "London",
+    "isp": "Aventice LLC",
+    "services": "VPN Server",
+    "state_region": "England"
+  },
+  "167.160.34.50": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "167.160.49.157": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "Web2Objects LLC",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "170.244.147.133": {
+    "asn": "263821",
+    "city": "Secaucus",
+    "isp": "Soluciones Favorables",
+    "services": "Data Center/Transit",
+    "state_region": "New Jersey"
+  },
+  "170.244.147.225": {
+    "asn": "263821",
+    "city": "Secaucus",
+    "isp": "Soluciones Favorables",
+    "services": "Data Center/Transit",
+    "state_region": "New Jersey"
+  },
+  "172.111.12.238": {
+    "asn": "203020",
+    "city": "Sao Paulo",
+    "isp": "HostRoyale LLC",
+    "services": "VPN Server",
+    "state_region": "Sao Paulo"
+  },
+  "172.111.15.26": {
+    "asn": "203020",
+    "city": "Sao Paulo",
+    "isp": "HostRoyale LLC",
+    "services": "VPN Server",
+    "state_region": "Sao Paulo"
+  },
+  "172.121.210.75": {
+    "asn": "3257",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "172.121.219.200": {
+    "asn": "3257",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Public Proxy Server",
+    "state_region": "California"
+  },
+  "172.121.220.36": {
+    "asn": "3257",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Public Proxy Server",
+    "state_region": "California"
+  },
+  "172.121.220.95": {
+    "asn": "3257",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "172.121.222.14": {
+    "asn": "3257",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Public Proxy Server",
+    "state_region": "California"
+  },
+  "172.121.222.161": {
+    "asn": "3257",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "172.240.166.170": {
+    "asn": "7979",
+    "city": "Dallas",
+    "isp": "Servers.com Inc.",
+    "services": "Data Center/Transit",
+    "state_region": "Texas"
+  },
+  "172.252.22.42": {
+    "asn": "18779",
+    "city": "Santa Clara",
+    "isp": "Subnet Digital LLC",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "172.252.26.249": {
+    "asn": "18779",
+    "city": "Santa Clara",
+    "isp": "Subnet Digital LLC",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "172.252.49.46": {
+    "asn": "18779",
+    "city": "Santa Clara",
+    "isp": "Subnet Digital LLC",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "176.20.192.160": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.193.20": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.194.196": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.194.218": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.194.26": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.194.40": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.196.163": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.196.49": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.197.113": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.199.135": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.203.108": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.203.226": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.203.248": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.205.252": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "176.20.207.76": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "185.201.41.39": {
+    "asn": "33667",
+    "city": "Ljubljana",
+    "isp": "Wired ISP Inc.",
+    "services": "VPN Server",
+    "state_region": "Ljubljana"
+  },
+  "185.201.41.99": {
+    "asn": "33667",
+    "city": "Ljubljana",
+    "isp": "Wired ISP Inc.",
+    "services": "VPN Server",
+    "state_region": "Ljubljana"
+  },
+  "185.201.43.16": {
+    "asn": "33667",
+    "city": "Andorra la Vella",
+    "isp": "Wired ISP Inc.",
+    "services": "VPN Server",
+    "state_region": "Andorra la Vella"
+  },
+  "185.201.43.93": {
+    "asn": "33667",
+    "city": "Andorra la Vella",
+    "isp": "Wired ISP Inc.",
+    "services": "VPN Server",
+    "state_region": "Andorra la Vella"
+  },
+  "188.42.112.191": {
+    "asn": "7979",
+    "city": "Amsterdam",
+    "isp": "root SA",
+    "services": "Data Center/Transit",
+    "state_region": "Ohio"
+  },
+  "189.104.150.180": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.104.151.224": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.104.151.5": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.104.196.144": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.104.219.167": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.104.219.79": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.104.22.220": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.104.94.2": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.81.113.224": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.81.119.72": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.152.92": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.153.94": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.187.148": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.187.197": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.194.25": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.81.222.92": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.223.113": {
+    "asn": "9009",
+    "city": "Dallas",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "189.81.226.54": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.81.227.48": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "189.81.227.86": {
+    "asn": "212238",
+    "city": "Chicago",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Illinois"
+  },
+  "192.177.130.20": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.148.176": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Public Proxy Server",
+    "state_region": "California"
+  },
+  "192.177.149.156": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.163.172": {
+    "asn": "212238",
+    "city": "Frankfurt am Main",
+    "isp": "EGIHosting",
+    "services": "Public Proxy Server",
+    "state_region": "Hessen"
+  },
+  "192.177.163.24": {
+    "asn": "212238",
+    "city": "Frankfurt am Main",
+    "isp": "EGIHosting",
+    "services": "Public Proxy Server",
+    "state_region": "Hessen"
+  },
+  "192.177.29.111": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.29.116": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.30.141": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.49.155": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.57.124": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.57.46": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.97.146": {
+    "asn": "18779",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "192.177.97.88": {
+    "asn": "18779",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "195.40.64.164": {
+    "asn": "30058",
+    "city": "Singapore",
+    "isp": "code200 UAB",
+    "services": "VPN Server",
+    "state_region": "Singapore"
+  },
+  "205.188.110.132": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Bucuresti"
+  },
+  "205.188.110.38": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Bucuresti"
+  },
+  "205.188.111.86": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Bucuresti"
+  },
+  "205.188.168.118": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Bucuresti"
+  },
+  "205.188.168.92": {
+    "asn": "9009",
+    "city": "Bucharest",
+    "isp": "UAB code200",
+    "services": "VPN Server",
+    "state_region": "Bucuresti"
+  },
+  "23.230.11.162": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.11.45": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.120.204": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.154.145": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.188.238": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.222.115": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.248.227": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.230.61.77": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "23.239.181.107": {
+    "asn": "396319",
+    "city": "Kenmore",
+    "isp": "Oxylabs",
+    "services": "VPN Server",
+    "state_region": "Washington"
+  },
+  "23.239.181.80": {
+    "asn": "396319",
+    "city": "Kenmore",
+    "isp": "Oxylabs",
+    "services": "VPN Server",
+    "state_region": "Washington"
+  },
+  "23.239.182.186": {
+    "asn": "396319",
+    "city": "Kenmore",
+    "isp": "Oxylabs",
+    "services": "VPN Server",
+    "state_region": "Washington"
+  },
+  "23.239.182.25": {
+    "asn": "396319",
+    "city": "Kenmore",
+    "isp": "Oxylabs",
+    "services": "VPN Server",
+    "state_region": "Washington"
+  },
+  "23.239.183.55": {
+    "asn": "396319",
+    "city": "Kenmore",
+    "isp": "Oxylabs",
+    "services": "VPN Server",
+    "state_region": "Washington"
+  },
+  "31.76.136.107": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.137.141": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.137.159": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.140.72": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.141.58": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.146.189": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.147.61": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.147.84": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.151.106": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "VPN Server",
+    "state_region": "Utah"
+  },
+  "31.76.151.205": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.153.188": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "VPN Server",
+    "state_region": "Utah"
+  },
+  "31.76.154.11": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.154.153": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.156.190": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.157.69": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.158.61": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.159.184": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.160.108": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.160.160": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.164.69": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.166.20": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "31.76.166.96": {
+    "asn": "11798",
+    "city": "Orem",
+    "isp": "Ace Data Centers II LLC",
+    "services": "Data Center/Transit",
+    "state_region": "Utah"
+  },
+  "45.95.24.69": {
+    "asn": "203020",
+    "city": "Sao Paulo",
+    "isp": "HostRoyale Technologies Pvt Ltd",
+    "services": "VPN Server",
+    "state_region": "Sao Paulo"
+  },
+  "5.182.186.31": {
+    "asn": "33651",
+    "city": "Woodside",
+    "isp": "WiredISP Inc.",
+    "services": "VPN Server",
+    "state_region": "New York"
+  },
+  "50.118.139.58": {
+    "asn": "212238",
+    "city": "Santa Clara",
+    "isp": "EGIHosting",
+    "services": "Data Center/Transit",
+    "state_region": "California"
+  },
+  "84.32.76.58": {
+    "asn": "9009",
+    "city": "Los Angeles",
+    "isp": "UAB Nacionalinis Telekomunikaciju Tinklas",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "85.208.35.139": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "Web2Objects GmbH",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "85.208.35.54": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "Web2Objects GmbH",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.0.50": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.0.72": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.0.85": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.11.90": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.13.29": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.15.167": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.2.0": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.2.209": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.3.250": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.5.153": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.7.56": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.8.138": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "87.56.8.172": {
+    "asn": "62874",
+    "city": "Dallas",
+    "isp": "US",
+    "services": "VPN Server",
+    "state_region": "Texas"
+  },
+  "88.216.111.160": {
+    "asn": "9009",
+    "city": "Baton Rouge",
+    "isp": "UAB Nacionalinis Telekomunikaciju Tinklas",
+    "services": "VPN Server",
+    "state_region": "Louisiana"
+  },
+  "88.216.111.47": {
+    "asn": "9009",
+    "city": "Baton Rouge",
+    "isp": "UAB Nacionalinis Telekomunikaciju Tinklas",
+    "services": "VPN Server",
+    "state_region": "Louisiana"
+  },
+  "9.142.171.37": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.171.52": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.173.188": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.173.197": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.174.212": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.176.22": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.179.125": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.183.128": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.183.135": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.183.69": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.142.183.74": {
+    "asn": "6079",
+    "city": "Virginia",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "Minnesota"
+  },
+  "9.151.192.204": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.192.205": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.193.80": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.195.33": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.195.66": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.197.13": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.198.233": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.199.134": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.201.181": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.202.223": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.203.25": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.203.57": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.203.78": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.204.196": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  },
+  "9.151.205.196": {
+    "asn": "46635",
+    "city": "Sacramento",
+    "isp": "Aviation RE LLC",
+    "services": "VPN Server",
+    "state_region": "California"
+  }
+}
