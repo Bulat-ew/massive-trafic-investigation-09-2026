@@ -12,10 +12,10 @@ Counts are rule samples, not the mix of all traffic. Raw numbers: `facts.md`.
 
 ## Relation to H1–H4
 
-- H4 is consistent: many /24s, hosting/proxy-shaped holders, one shared client fingerprint.
+- H4 is consistent: many /24s, hosting/proxy-shaped holders, one shared client fingerprint. whatismyipaddress `Services` on the same 197 IPs: VPN Server 131, Data Center/Transit 59, Public Proxy Server 7.
 - H2 as a single crawler egress is weak.
 - H1 vs H3 is not decided by IP layout. A proxy fleet can scrape or flood.
-- WAF `Country` on this rule is mostly US (182/197). That is a WAF field, not a proven residential location. Several holders are known proxy/VPN/hosting networks.
+- WAF `Country` on this rule is mostly US (182/197). That is a WAF field, not a proven residential location. Page cities are mostly hosting metros, not a residential US mix.
 
 ## Other IPs (not this rule)
 

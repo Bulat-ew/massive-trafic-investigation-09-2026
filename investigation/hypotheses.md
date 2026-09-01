@@ -5,10 +5,10 @@ None of these is selected as the cause.
 
 | ID | Claim | Status |
 |---|---|---|
-| H1 | Targeted crawler / scraper of wedding catalog content | Consistent with URI mix; volume and client spread still open |
-| H2 | Accidental aggressive crawler (misconfigured bot / AI agent) | Weak as a single-egress crawler; possible if it rented a proxy fleet |
-| H3 | Intentional L7 DDoS | Volume and drop-after-block fit; URI mix does not look like a single-URL flood |
-| H4 | Botnet or rented-proxy fleet as the delivery layer | IP/ASN spread fits; does not by itself pick intent (H1 vs H3) |
+| H1 | Targeted crawler / scraper of wedding catalog content | Best intent fit for the URI mix; Chrome/125 share of the plateau and per-IP rate still open |
+| H2 | Accidental aggressive crawler (misconfigured bot / AI agent) | Weak. Proxy/VPN labels and a frozen Chrome/125 UA do not look like one misconfigured bot |
+| H3 | Intentional L7 DDoS | Volume and drop-after-block fit; sampled URIs do not look like a single-URL flood. Origin cost unmeasured |
+| H4 | Botnet or rented-proxy fleet as the delivery layer | Strongest as the delivery layer. whatismyipaddress Services are VPN/DC/proxy on all 197 IPs. Does not pick H1 vs H3 |
 
 ---
 
@@ -72,9 +72,10 @@ None of these is selected as the cause.
 **Against current evidence.**
 
 - Fits a rented/hosting proxy fleet: 197 unique IPs in the block slice; /24s mostly singletons; RIPEstat holders include Web2Objects, M247, Datacamp CDNEXT, Ace Data Centers, Oxylabs, Leaseweb. Same exact Chrome/125 UA. Empty `Accept-Language`. See `analysis/ips.md` and `analysis/fingerprints.md`.
+- whatismyipaddress.com (2026-09-01 ~03:59–04:15 UTC) labeled all 197 IPs: VPN Server 131, Data Center/Transit 59, Public Proxy Server 7. That is the page `Services` field, not a proof of the operator’s product. It still leaves 0 residential-looking rows in this slice.
 - Weaker as a conventional compromised-device botnet: holders in this slice are mostly datacenter/proxy, not many consumer ISPs (Comcast is 5 IPs).
 - Does not choose intent. A proxy fleet can carry H1 or H3.
-- WAF `Country=US` is not proven as a real user location.
+- WAF `Country=US` is not proven as a real user location. Page cities cluster on hosting cities (Dallas, Santa Clara, Phoenix, Ashburn, Orem, Miami) plus a few non-US labels (Bucharest, Singapore, London).
 
 ---
 
