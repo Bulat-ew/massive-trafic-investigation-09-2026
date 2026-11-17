@@ -4,7 +4,7 @@ Find the cause of the request surge on `easyweddings.com.au` that began around 2
 
 Candidate explanations live in `investigation/hypotheses.md`. Test them; do not assume one. More than one can be true. Do not pick a cause until evidence rules the others out.
 
-## Layout
+## Layout test
 
 ```
 investigation/
